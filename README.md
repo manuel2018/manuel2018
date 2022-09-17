@@ -1,6 +1,6 @@
 My name is Manuel, I'm from Cuba and I'm an Sysadmin.
 
-### Habilidades
+### Skills
 
 - Linux
 - Redes
