@@ -4,11 +4,11 @@ My name is Manuel, I'm from Cuba and I'm an Sysadmin.
 
 - Linux
 - Redes
-- docker
+- Docker
 - Kubernetes
-- terrafrom
+- Terraform
 - Ansible
--CI/CD
+- CI/CD
 
 <!---
 manuelDK8s/manuelDK8s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
