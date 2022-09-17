@@ -1,9 +1,14 @@
 My name is Manuel, I'm from Cuba and I'm an Sysadmin.
-- 👋 Hi, I’m @manuelDK8s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+### Habilidades
+
+- Linux
+- Redes
+- docker
+- Kubernetes
+- terrafrom
+- Ansible
+-CI/CD
 
 <!---
 manuelDK8s/manuelDK8s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
